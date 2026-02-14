@@ -61,7 +61,7 @@ export const EmbedPreview: React.FC<EmbedPreviewProps> = ({
           {/* Live Preview */}
           <div className="preview-box">
             <lot-widget
-              org="558d51d1-215e-4c5d-b872-2f8a5cdeb1f6"
+              org="391c41e6-8045-4b32-aab7-0a9842a922d0"
               height="500"
             ></lot-widget>
           </div>
